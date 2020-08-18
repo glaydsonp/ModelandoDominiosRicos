@@ -1,0 +1,6 @@
+PaymentContext.Domain/bin
+PaymentContext.Shared/bin
+PaymentContext.Tests/bin
+PaymentContext.Domain/obj
+PaymentContext.Shared/obj
+PaymentContext.Tests/obj
